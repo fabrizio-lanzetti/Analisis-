@@ -1,2 +1,2 @@
 # Analisis-
-En este repositorio se muestran los diferentes analisis realizados.
+En este repositorio se muestran diferentes analisis y procesamientos que se le realizo a un mismo set de datos.
